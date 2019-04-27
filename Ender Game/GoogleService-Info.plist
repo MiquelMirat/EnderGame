@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>455179014150-4ujm6i3nut27h4e5es7hlc54jisnnbun.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.455179014150-4ujm6i3nut27h4e5es7hlc54jisnnbun</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFJIsfjItSMtLlIje-r2i6eGDEUAbvcmU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>455179014150</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mmirat.Ender-Game</string>
+	<key>PROJECT_ID</key>
+	<string>endergame-b0990</string>
+	<key>STORAGE_BUCKET</key>
+	<string>endergame-b0990.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:455179014150:ios:3d0c537ddf7071b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://endergame-b0990.firebaseio.com</string>
+</dict>
+</plist>
